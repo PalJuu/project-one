@@ -1,0 +1,211 @@
+*		{
+	margin: 0;
+	padding: 0;
+	
+}
+h1	{
+	font-size: 30px;
+	color: gold;
+	text-align: center;
+}
+
+p 		{
+	
+		background-color: purple;
+		float: right;
+		font-size: 28px;
+		width: 48%;
+		height: 10%;
+		border: 5px solid #000000;
+		box-sizing: border-box;
+		text-align: center;
+		
+		margin: 1%;
+		
+		padding: 10px;
+		
+}
+		body {
+			background-color: rgb(71, 126, 127);
+		}
+
+#a 		{
+		background-color: white;
+		transition: 5s;
+
+	
+}
+#a:hover	{
+	background-color: red;
+	transition: 2s;
+	
+}
+
+
+#b 		{
+		background-color: #FFFFFF;
+		transition: 5s;
+
+		
+	
+}
+#b:hover	{
+	background-color: red;
+	transition: 2s;
+}
+
+		#d1 { 
+			
+			background-color: rgba(44, 85, 86, 0.8);
+			font-size:18px;
+			border-bottom: 2px solid #000000;
+			border-right: 2px solid #000000;
+			text-align: center;
+			width:100%;
+			height: 120px;
+			position: fixed;
+			padding-top: 35px;
+			
+		}
+		
+		#at1 {
+			padding-left: 25px;
+			color: red;
+			padding-top: 100px;
+			font-family: Helvetica;
+		}
+		
+		#at2 {
+			padding-left: 25px;
+			color: red;
+			padding-top: 6px;
+			font-family: Helvetica;
+		}
+		
+		#at3 {
+			padding-left: 25px;
+			color: red;
+			padding-top: 6px;
+			font-family: Helvetica;	
+		}
+		
+		#a1 {
+		font-family: Comic Sans MS;
+		text-decoration: none;
+		padding-right: 25px;
+		color: #FFFFFF;
+		
+		}
+		
+		#a1:hover {
+			text-decoration: line-through;
+		}
+		
+		#a2 {
+		font-family: Comic Sans MS;
+		text-decoration: none;
+		color: #FFFFFF;
+		
+		}
+		
+		#a2:hover {
+			text-decoration: line-through;
+		}
+		
+		#a3 {
+		font-family: Comic Sans MS;
+		text-decoration: none;
+		padding-left: 25px;
+		color: #FFFFFF;
+		
+		}
+		
+		#a3:hover {
+			text-decoration: line-through;
+		}
+		
+		#a4 {
+		font-family: Comic Sans MS;
+		text-decoration: none;
+		padding-left: 25px;
+		color: #FFFFFF;
+		
+		}
+		
+		#a4:hover {
+			text-decoration: line-through;
+		}
+
+		#d2 {
+			background-color: white;
+			font-size: 28px;
+			border: 3px solid #000000;
+			box-sizing: border-box;
+			margin-top: 20%;
+			margin-left: 25%;
+			margin-right: 25%;
+			float: left;
+			padding: 25 25 25 25;
+		}
+		#k1 {
+			margin-top: 200px;
+			margin-left: 50px;
+		}
+				#k2 {
+			margin-top: 200px;
+			margin-left: 20px;
+		}
+						#k3 {
+			margin-top: 50px;
+			margin-left: 25%;
+		}
+		#k4 {
+			margin-top: 100px;
+			margin-left: 25px;
+		}
+		
+		
+		.nimi {
+			background-color: red;
+			width: 100vw;
+			height: 10vh;
+		}
+		
+		.linkit {
+			background-color: lime;
+			width: 10%;
+			height: 80vh;
+			float: left;
+			
+		}
+		
+		.sis {
+			background-color: yellow;
+			width: 80%;
+			height: 80vh;
+			float: left;
+			color: orange;
+			
+		}
+		
+		.kuva {
+			background-color: cyan;
+			width: 10%;
+			height: 80vh;
+			float: right;
+			position: static;
+			
+			
+		}
+		
+		.tyhja {
+			background-color: black;
+			width: 100vw;
+			height: 10vh;
+			float: left;
+		}
+
+
+		
+
+		
